@@ -28,10 +28,7 @@ description:           >
 
 # A shorter description for the sidebar.
 tagline:               >
-  목표가 생기면
-  어떻게든 되더라
-   
-  신기하네 ㅋ
+  일단 해봐
 
 # A list of keywords for your blog
 keywords:              []
@@ -292,7 +289,7 @@ plugins:
 #   name:                <firstname> <lastname>
 #   links:
 #     - https://twitter.com/<username>
-    - https://github.com/misao20
+#     - https://github.com/<username>
 
 
 # Other Plugins
