@@ -19,16 +19,16 @@ baseurl:               ''
 lang:                  kr
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 misao20 blog
+title:                 misao20
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  어쩌다 2019 첫 시작이 되어버린 github blog
+  
 
 # A shorter description for the sidebar.
 tagline:               >
-  "Best Jekyll Theme by a Mile".
+  "어쩌다 2019 첫 시작이 되어버린 github blog"
 
 
 # A list of keywords for your blog
