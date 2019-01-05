@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Python
-slug: Python
+slug: python
 menu: true
 order: 3
 description: >
