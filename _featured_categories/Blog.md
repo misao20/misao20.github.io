@@ -5,5 +5,5 @@ slug: Blog
 menu: true
 order: 1
 description: >
-  Misao Day Bloging List
+  Misao Day Blog List
 ---
