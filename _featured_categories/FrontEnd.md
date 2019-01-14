@@ -1,7 +1,7 @@
 ---
 layout: list
 title: FrontEnd
-slug: FrontEnd
+slug: frontend
 menu: true
 order: 2
 description: >
