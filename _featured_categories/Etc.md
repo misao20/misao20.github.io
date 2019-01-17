@@ -1,9 +1,9 @@
 ---
 layout: list
-title: 기타자료
+title: ETC
 slug: etc
 menu: true
 order: 4
 description: >
-  기타 자료 모음
+  기타
 ---
