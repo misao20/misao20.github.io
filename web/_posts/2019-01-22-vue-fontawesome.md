@@ -15,7 +15,7 @@ $ npm i --save @fortawesome/fontawesome-svg-core \
   npm i --save @fortawesome/vue-fontawesome  
 ~~~
 위처럼 설치하라고 나오는데 저렇게 넣었다가 npm이랑 i라는거까지 죄다 설치됬었다...   
-
+본인이 아는 안전한 방법으로 설치하도록 합시다 ㅎㅎ...
 ~~~
 $ npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome  
 ~~~
