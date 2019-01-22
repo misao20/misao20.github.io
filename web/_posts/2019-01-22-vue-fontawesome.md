@@ -10,15 +10,15 @@ description: >
 ## Vue프로젝트에 Font Awesome 설치하기
 fontawesome 사이트에서 보면   
 ~~~
-$ npm i --save @fortawesome/fontawesome-svg-core \\   
-npm i --save @fortawesome/free-solid-svg-icons \\   
+$ npm i --save @fortawesome/fontawesome-svg-core \
+npm i --save @fortawesome/free-solid-svg-icons \  
 npm i --save @fortawesome/vue-fontawesome   
 ~~~
 위처럼 설치하라고 나오는데 저렇게 넣으면 npm이랑 i라는거까지 죄다 설치되니까 저렇게 하지말자.....
 
 ~~~
-$ npm i --save @fortawesome/fontawesome-svg-core \\   
-@fortawesome/free-solid-svg-icons \\   
+$ npm i --save @fortawesome/fontawesome-svg-core \ 
+@fortawesome/free-solid-svg-icons \
 @fortawesome/vue-fontawesome  
 ~~~
 
