@@ -11,15 +11,13 @@ description: >
 fontawesome 사이트에서 보면   
 ~~~
 $ npm i --save @fortawesome/fontawesome-svg-core \
-npm i --save @fortawesome/free-solid-svg-icons \  
-npm i --save @fortawesome/vue-fontawesome   
+  npm i --save @fortawesome/free-solid-svg-icons \
+  npm i --save @fortawesome/vue-fontawesome  
 ~~~
-위처럼 설치하라고 나오는데 저렇게 넣으면 npm이랑 i라는거까지 죄다 설치되니까 저렇게 하지말자.....
+위처럼 설치하라고 나오는데 저렇게 넣었다가 npm이랑 i라는거까지 죄다 설치됬었다...   
 
 ~~~
-$ npm i --save @fortawesome/fontawesome-svg-core \ 
-@fortawesome/free-solid-svg-icons \
-@fortawesome/vue-fontawesome  
+$ npm i --save @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/vue-fontawesome  
 ~~~
 
 위 명령어는 기본으로 필요한 fontawesome-svg-core, vue-fontawesome, 직접적인 아이콘 free-solid-svg-icons를 선택하여 설치하는 경우다. 
