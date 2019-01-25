@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vue.js에서 vue-router
+title: Vuejs에서 vue-router 사용하기
 description: >
     vue-router 사용법 및 팁
 ---
