@@ -5,6 +5,8 @@ description: >
     vue-router 사용법 및 팁
 ---
 
+vue-router를 사용하면서 알게된 부분을 정리해본다.
+
 ## 기본 사용법
 ~~~ js
 import Vue from 'vue';
